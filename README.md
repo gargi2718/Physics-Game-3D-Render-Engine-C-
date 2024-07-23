@@ -1,8 +1,9 @@
-# Physics-Game-3D-Render-Engine-C++
+![image](https://github.com/user-attachments/assets/f555dc1e-621d-430b-bc6f-d03bdf226519)# Physics-Game-3D-Render-Engine-C++
 ## Overview
 
 This project is a 3D engine implemented in C++. It demonstrates various computer graphics concepts, including rendering, lighting, and shadow mapping. The engine supports multiple types of lights, shaders, and textures, and includes a simple physics system for bounding volumes.
 
+<img src="images/Game.img.png" align=center />
 ## Features
 
 - **Rendering Engine**: Handles rendering of objects, applying shaders, and managing the rendering pipeline.
@@ -149,7 +150,7 @@ These files handle bounding sphere collision detection.
   - `getCenter()`, `getRadius()`: Get the center and radius of the bounding sphere.
 
 #### `camera.cpp` and `camera.h`
-
+<img src="images/Camera.png" align=center />
 These files manage camera functionality.
 
 - **Functions**:
@@ -166,7 +167,7 @@ These files contain the main game loop and engine core.
   - `render()`, `update()`: Main render and update functions for the game loop.
 
 #### `entity.cpp`, `entity.h`, and `entityComponent.h`
-
+<img src="images/Entity.png" align=center />
 These files handle the entity-component system.
 
 - **Functions**:
@@ -219,7 +220,7 @@ This is the application entry point.
   - `main()`: Main function to start the application.
 
 #### `material.cpp` and `material.h`
-
+<img src="images/S.png" align=center />
 These files handle material properties and textures.
 
 - **Functions**:
@@ -263,7 +264,7 @@ These files handle shader compilation and application.
   - `compileShader()`, `applyShader()`: Compile and apply shaders.
 
 #### `texture.cpp` and `texture.h`
-
+<img src="images/ShadesTexture.png" align=center />
 These files handle texture loading and management.
 
 - **Functions**:
