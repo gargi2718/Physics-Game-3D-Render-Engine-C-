@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f555dc1e-621d-430b-bc6f-d03bdf226519)# Physics-Game-3D-Render-Engine-C++
+# Physics-Game-3D-Render-Engine-C++
 ## Overview
 
 This project is a 3D engine implemented in C++. It demonstrates various computer graphics concepts, including rendering, lighting, and shadow mapping. The engine supports multiple types of lights, shaders, and textures, and includes a simple physics system for bounding volumes.
