@@ -11,7 +11,9 @@ This project is a 3D engine implemented in C++. It demonstrates various computer
 - **Physics**: Simple physics system for axis-aligned bounding boxes and bounding spheres.
 - **Camera**: Includes implementations for free look and free move cameras.
 - **Profiling**: Tools for profiling the performance of the engine.
-
+- 
+<img src="images/LoopStep.png" align=center width="400" height="300" />
+<br />
 ## Getting Started
 
 ### Prerequisites
