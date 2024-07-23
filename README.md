@@ -3,7 +3,7 @@
 
 This project is a 3D engine implemented in C++. It demonstrates various computer graphics concepts, including rendering, lighting, and shadow mapping. The engine supports multiple types of lights, shaders, and textures, and includes a simple physics system for bounding volumes.
 
-<img src="images/Game.png" align=center width="1000" />
+<img src="images/Game.png" align=center width="700" />
 <br />
 
 ## Features
