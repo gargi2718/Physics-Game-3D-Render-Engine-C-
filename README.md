@@ -152,7 +152,7 @@ These files handle bounding sphere collision detection.
   - `getCenter()`, `getRadius()`: Get the center and radius of the bounding sphere.
 
 #### `camera.cpp` and `camera.h`
-<img src="images/Camera.png" align=center width="1000"  />
+<img src="images/Camera.png" align=center width="850"  />
 These files manage camera functionality.
 
 - **Functions**:
