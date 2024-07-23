@@ -132,6 +132,7 @@ This file serves as the main header for the 3D engine, containing declarations f
 #### `aabb.cpp` and `aabb.h`
 
 These files handle Axis-Aligned Bounding Box (AABB) collision detection.
+![Alt text](images/AABB.png)
 
 - **Functions**:
   - `intersect(const AABB& other)`: Checks if this AABB intersects with another AABB.
