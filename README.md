@@ -3,7 +3,7 @@
 
 This project is a 3D engine implemented in C++. It demonstrates various computer graphics concepts, including rendering, lighting, and shadow mapping. The engine supports multiple types of lights, shaders, and textures, and includes a simple physics system for bounding volumes.
 
-<img src="images/Game.img.png" align=center />
+<img src="images/Game.png" align=center />
 ## Features
 
 - **Rendering Engine**: Handles rendering of objects, applying shaders, and managing the rendering pipeline.
@@ -142,7 +142,7 @@ These files handle Axis-Aligned Bounding Box (AABB) collision detection.
   - `getMinExtents()`, `getMaxExtents()`: Get the minimum and maximum extents of the AABB.
 
 #### `boundingSphere.cpp` and `boundingSphere.h`
-<img src="images/Collison.png" align=center width="500" height="300" />
+<img src="images/Collison.png" align=center />
 These files handle bounding sphere collision detection.
 
 - **Functions**:
