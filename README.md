@@ -132,7 +132,7 @@ This file serves as the main header for the 3D engine, containing declarations f
   - `EngineConfig`: Holds configuration parameters for the engine such as screen width, height, and title.
 
 #### `aabb.cpp` and `aabb.h`
-<img src="images/AABB.png" align=center width="400" height="300" />
+<img src="images/AABB.png" align=center width="500" height="300" />
 <br />
 These files handle Axis-Aligned Bounding Box (AABB) collision detection.
 
@@ -141,7 +141,7 @@ These files handle Axis-Aligned Bounding Box (AABB) collision detection.
   - `getMinExtents()`, `getMaxExtents()`: Get the minimum and maximum extents of the AABB.
 
 #### `boundingSphere.cpp` and `boundingSphere.h`
-
+<img src="images/Collison.png" align=center width="500" height="300" />
 These files handle bounding sphere collision detection.
 
 - **Functions**:
