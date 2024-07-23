@@ -133,7 +133,7 @@ This file serves as the main header for the 3D engine, containing declarations f
 
 These files handle Axis-Aligned Bounding Box (AABB) collision detection.
 <img src="images/AABB.png" align=left width="300" height="300" />
-
+<br />
 - **Functions**:
   - `intersect(const AABB& other)`: Checks if this AABB intersects with another AABB.
   - `getMinExtents()`, `getMaxExtents()`: Get the minimum and maximum extents of the AABB.
