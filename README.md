@@ -60,6 +60,7 @@ After building, you can run the executable using:
 
 ## Project Structure
 <img src="images/diagram.png" align=center width="800" />
+<br />
 ### Root Directory
 
 - `.gitattributes`, `.gitignore`: Git configuration files.
