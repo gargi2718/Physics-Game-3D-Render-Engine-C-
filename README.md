@@ -3,7 +3,7 @@
 
 This project is a 3D engine implemented in C++. It demonstrates various computer graphics concepts, including rendering, lighting, and shadow mapping. The engine supports multiple types of lights, shaders, and textures, and includes a simple physics system for bounding volumes.
 
-<img src="images/Game.png" align=center />
+<img src="images/Game.png" align=center width="1000" />
 <br />
 
 ## Features
@@ -152,7 +152,7 @@ These files handle bounding sphere collision detection.
   - `getCenter()`, `getRadius()`: Get the center and radius of the bounding sphere.
 
 #### `camera.cpp` and `camera.h`
-<img src="images/Camera.png" align=center height="600"  />
+<img src="images/Camera.png" align=center width="1000"  />
 These files manage camera functionality.
 
 - **Functions**:
