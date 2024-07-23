@@ -266,7 +266,7 @@ These files handle shader compilation and application.
   - `compileShader()`, `applyShader()`: Compile and apply shaders.
 
 #### `texture.cpp` and `texture.h`
-<img src="images/ShadesTexture.png" align=center />
+<img src="images/Shadestexture.png" align=center />
 These files handle texture loading and management.
 
 - **Functions**:
